@@ -8,7 +8,7 @@ Here are some projects I'm proud of:
   - [WIEAT](https://github.com/tatiaris/wieat-frontend) (Web-based Interactive Episode Analysis Tool)
 - Backend:
   - [Quizhack](https://github.com/tatiaris/quizhack) (Quizlet scraper / API that combines study sets)
-  - RusticMojo (SQL based e-commerce website for hand made women's accessories)
+  - [RusticMojo](https://github.com/tatiaris/rustic-mojo) (SQL based e-commerce website for hand made women's accessories)
 - Frontend:
   - [ACELAB](https://acelab.tamu.edu/) (Applied Cognitive Ergonomics Lab)
   - [Typo](https://github.com/tatiaris/typo) (Typing progress tracker, no longer supported :'( )
