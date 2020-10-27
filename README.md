@@ -13,7 +13,7 @@ Here are some projects I'm proud of:
   - [ACELAB](https://acelab.tamu.edu/) (Applied Cognitive Ergonomics Lab)
   - [Typo](https://github.com/tatiaris/typo) (Typing progress tracker, no longer supported :'( )
 - Data Science:
-  - [Covid-19 vs Governments](#) (Analysis of covid-19 impact on different types of governments)
+  - [Covid-19 vs Governments](https://github.com/tatiaris/covid-vs-governments) (Analysis of covid-19 impact on different types of governments)
 
 Fun Fact: I love playing racquet sports!
 
