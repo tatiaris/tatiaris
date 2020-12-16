@@ -7,11 +7,11 @@ Here are some projects I'm proud of:
   - [TAMU Datathon](https://github.com/tamu-datathon-org) (the best Hackathon imo)
   - [WIEAT](https://github.com/tatiaris/wieat-frontend) (Web-based Interactive Episode Analysis Tool)
 - Backend:
-  - [Quizhack](https://github.com/tatiaris/quizhack) (Quizlet scraper / API that combines study sets)
+  - [TAMU Degree Planner](https://github.com/tatiaris/degreeplanner) (Aggie Degree Planning Tool)
   - [RusticMojo](https://github.com/tatiaris/rustic-mojo) (SQL based e-commerce website for hand made women's accessories)
 - Frontend:
   - [ACELAB](https://acelab.tamu.edu/) (Applied Cognitive Ergonomics Lab)
-  - [Typo](https://github.com/tatiaris/typo) (Typing progress tracker, no longer supported :'( )
+  - [Personal Website](https://tatiaris.com) (Personal Website built from scratch)
 - Data Science:
   - [Covid-19 vs Governments](https://github.com/tatiaris/covid-vs-governments) (Analysis of covid-19 impact on different types of governments)
 
