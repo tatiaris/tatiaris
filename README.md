@@ -4,6 +4,7 @@ My name is Rishabh Tatia, and my passion lies in developing software that helps 
 
 Here are some projects I'm proud of:
 - Full Stack:
+  - [Resubae](https://resubae.net) (Free to use Resume building website)
   - [TAMU Datathon](https://github.com/tamu-datathon-org) (the best Hackathon imo)
   - [WIEAT](https://github.com/tatiaris/wieat-frontend) (Web-based Interactive Episode Analysis Tool)
 - Backend:
