@@ -6,11 +6,10 @@ Here are some projects I'm proud of:
 - Full Stack:
   - [Resubae](https://resubae.net) (Free to use Resume building website)
   - [TAMU Datathon](https://github.com/tamu-datathon-org) (the best Hackathon imo)
+- Backend Focused:
   - [WIEAT](https://github.com/tatiaris/wieat-frontend) (Web-based Interactive Episode Analysis Tool)
-- Backend:
   - [TAMU Degree Planner](https://github.com/tatiaris/degreeplanner) (Aggie Degree Planning Tool)
-  - [RusticMojo](https://github.com/tatiaris/rustic-mojo) (SQL based e-commerce website for hand made women's accessories)
-- Frontend:
+- Frontend Focused:
   - [ACELAB](https://acelab.tamu.edu/) (Applied Cognitive Ergonomics Lab)
   - [Personal Website](https://tatiaris.com) (Personal Website built from scratch)
 - Data Science:
@@ -18,17 +17,6 @@ Here are some projects I'm proud of:
 
 Fun Fact: I love playing racquet sports!
 
-<!--
-**tatiaris/tatiaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatiaris&show_icons=true&theme=algolia)](https://github.com/tatiaris)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?username=tatiaris&color=blue)
