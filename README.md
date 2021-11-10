@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Rishabh Tatia, and my passion lies in developing software that helps make everyone's lives easier! I got into programming through my interest in applied math and solving problems on Project Euler when I was in highschool. The majority of my experience so far lies in web development but I'm also interested in data science and mobile/desktop app development.
+I'm Rishabh and my passion lies in developing software that helps make everyone's lives easier! I got into programming through my interest in applied math and solving problems on Project Euler when I was in highschool. The majority of my experience so far lies in web development but I'm also interested in data science and mobile/desktop app development.
 
 Here are some projects I'm proud of:
 - Full Stack:
