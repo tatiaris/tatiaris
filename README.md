@@ -15,8 +15,6 @@ Here are some projects I'm proud of:
 - Data Science:
   - [Covid-19 vs Governments](https://github.com/tatiaris/covid-vs-governments) (Analysis of covid-19 impact on different types of governments)
 
-Fun Fact: I love playing racquet sports!
-
 [![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tatiaris&show_icons=true&theme=algolia)](https://github.com/tatiaris)
 
 ![](https://komarev.com/ghpvc/?username=tatiaris&color=blue)
