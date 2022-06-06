@@ -3,7 +3,7 @@
 I'm Rishabh, a senior at Texas A&M University studying Applied Mathematics and Computer Science who loves building products and solving prolems!
 
 Some projects I've worked on:
-- [Rekkit](https://rekkme.vercel.app) (under development) - Peer to peer recommendation platform
+- [Rekkit](https://github.com/tatiaris/rekkme) - Peer to peer recommendation platform
 - [Resuville](https://resuville.com) - Resume builder
 - [TAMU Datathon](https://github.com/tamu-datathon-org) - Tools for organizing Tamudatathon
 - [WIEAT](https://github.com/tatiaris/wieat-frontend) - Web-based Interactive Episode Analysis Tool
