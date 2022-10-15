@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rishabh, a senior at Texas A&M University studying Applied Mathematics and Computer Science who loves building products and solving prolems!
+I'm Rishabh, a mathematics and computer science enthusiast, full stack developer, and problem solver!
 
 Some projects I've worked on:
 - [Rekkit](https://github.com/tatiaris/rekkme) - Peer to peer recommendation platform
