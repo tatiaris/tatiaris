@@ -4,7 +4,7 @@ I'm Rishabh, a mathematics and computer science enthusiast, full stack developer
 
 Some projects I've worked on:
 - [Rekkit](https://github.com/tatiaris/rekkme) - Peer to peer recommendation platform
-- [Resuville](https://resuville.com) - Resume builder
+- [Resuville](https://resuville-tatiaris.vercel.app/) - Resume builder
 - [TAMU Datathon](https://github.com/tamu-datathon-org) - Tools for organizing Tamudatathon
 - [WIEAT](https://github.com/tatiaris/wieat-frontend) - Web-based Interactive Episode Analysis Tool
 - [TAMU Degree Planner](https://github.com/tatiaris/degreeplanner) - A&M Degree planner prototype
