@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Rishabh, a mathematics and computer science enthusiast, full stack developer, and problem solver!
+I'm Rishabh, I love math, computer science, and building products!
 
 Some projects I've worked on:
 - [Rekkit](https://github.com/tatiaris/rekkme) - Peer to peer recommendation platform
